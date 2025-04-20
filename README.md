@@ -5,24 +5,16 @@ Hey! I'm rolling deep into Week 1 of the SysAdmin Cohort, and this repo is the f
 In this project, I deployed and locked down a LAMP/LEMP stack like a true DevSecOps mercenary.  
 Objective? **# Secure Ubuntu Server Setup with LAMP Stack & SSL
 
-This project contains the setup, configuration, and hardening steps I took to deploy a secure static/demo PHP website on an Ubuntu server hosted on Azure.
 
-It includes Apache, PHP, MySQL, firewall rules, SSL via Let's Encrypt, and some of the configuration process.
 **
 
 ---
 
 ## 💡 What I Did
 
-- 🧱 Spun up a fresh Linux box (Ubuntu/Debian-based) on Azure cloud vm
-- - 🔥 Installed & hardened Apache/Nginx — security headers, disabled directory listing, least-privilege perms
-- 🛡️ Secured MySQL/MariaDB — used `mysql_secure_installation`, set up a tight user with zero escalation privileges
-- 🧬 Configured PHP with maximum paranoia — stripped dangerous functions, fine-tuned error handling
-- 🔒 Deployed Let's Encrypt TLS with `certbot`
-- 🧨 Tuned SSL for modern protocols, strong ciphers, no legacy support — 
-- 🌐 Deployed a tiny demo site to prove it's alive & secure
-- 🔐 Hardened the OS firewall with UFW — allowed only 22 (SSH), 80 (HTTP), 443 (HTTPS) and ICMP for ping and DNS
+This project contains the setup, configuration, and hardening steps I took to deploy a secure static/demo PHP website on an Ubuntu server hosted on Azure.
 
+It includes Apache, PHP, MySQL, firewall rules, SSL via Let's Encrypt, and some of the configuration process.
 ---
 
 ## 🧠 Why This Matters

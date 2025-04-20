@@ -1,8 +1,8 @@
 # ⚔️ Hardened Web Server Project (Week 1 – SysAdmin Cohort)
 
-Hey! I'm rolling deep into Week 1 of the SysAdmin Cohort, and this repo is the frontline of my war on insecure servers.
+Hi! Welcome to my server project ,phew it was quite uneasy at first but was fun all the way Week 1 of the SysAdmin Cohort, and this repo is the frontline of my war on insecure servers.
 
-In this project, I deployed and locked down a LAMP/LEMP stack like a true DevSecOps mercenary.  
+In this project, I deployed and locked down a like a true DevSecOps mercenary.  
 Objective? **# Secure Ubuntu Server Setup with LAMP Stack & SSL
 
 
